@@ -1,0 +1,57 @@
+<!-- <div class="align-center">
+  <h2>Bem Vindo à Prevenir Assistencial</h2>
+  <form #myForm="ngForm" (ngSubmit)="onSubmit(myForm.value)">
+    <input
+      placeholder="Email Id"
+      type="text"
+      name="email"
+      [(ngModel)]="user.email"
+    />
+    <input
+      placeholder="Password"
+      type="password"
+      name="password"
+      [(ngModel)]="user.password"
+    />
+    <div class="btn-div">
+      <button type="submit" [disabled]="!myForm.valid" class="login-btn">
+        Login
+      </button>
+    </div>
+  </form>
+</div> -->
+
+
+
+<div class="align-center">
+  <h2>Bem-vindo à</h2>
+  <h2>Prevenir Assistencial</h2>
+  <form #myForm="ngForm" (ngSubmit)="onSubmit(myForm.value)">
+    <label>Nome</label>
+    <input
+      placeholder="Nome"
+      type="text"
+      name="nome"
+      ngModel
+    />
+    <label>Email</label>
+    <input
+      placeholder="Email"
+      type="email"
+      name="email"
+      ngModel
+    />
+    <label>Telefone</label>
+    <input
+      placeholder="Telefone"
+      type="text"
+      name="telefone"
+      ngModel
+    />
+    <div class="btn-div">
+      <button type="submit" [disabled]="!myForm.valid" class="login-btn">
+        Acessar
+      </button>
+    </div>
+  </form>
+</div>

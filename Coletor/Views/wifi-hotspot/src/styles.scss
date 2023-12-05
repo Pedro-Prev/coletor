@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+  font-family: 'Prevenir';
+  src: url("./assets/Crox-Regular.ttf");
+}
+
+
+body {
+  background-image: url('./assets/bg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  // height: 100vh;
+}

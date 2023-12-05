@@ -1,0 +1,281 @@
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\global.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.exe
+c:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.deps.json
+c:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.runtimeconfig.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.pdb
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.AssemblyInfoInputs.cache
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.AssemblyInfo.cs
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\scopedcss\bundle\HotSpotAPI.styles.css
+c:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.CopyComplete
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\refint\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.pdb
+c:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.genruntimeconfig.cache
+c:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\obj\Debug\net6.0\ref\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\angular.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\package-lock.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\package.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.app.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.json
+C:\Users\Pedro\Downloads\HotSpot\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.spec.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\global.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\angular.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\package-lock.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\package.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.app.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.spec.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\src\assets\config.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.exe
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.deps.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.runtimeconfig.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.pdb
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.AssemblyInfoInputs.cache
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.AssemblyInfo.cs
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\scopedcss\bundle\HotSpotAPI.styles.css
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.CopyComplete
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\refint\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.pdb
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.genruntimeconfig.cache
+C:\Users\Pedro\Downloads\HotSpot - Copia (2)\HotSpotAPI\obj\Debug\net6.0\ref\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\global.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\package-lock.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\package.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\src\assets\config.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.app.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.spec.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\angular.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Views\wifi-hotspot\proxy.conf.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.exe
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.deps.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.runtimeconfig.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\HotSpotAPI.pdb
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.AssemblyInfoInputs.cache
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.AssemblyInfo.cs
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\scopedcss\bundle\HotSpotAPI.styles.css
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.csproj.CopyComplete
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\refint\HotSpotAPI.dll
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.pdb
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\HotSpotAPI.genruntimeconfig.cache
+C:\Users\Pedro\Downloads\HotSpot-Coletor\HotSpotAPI\obj\Debug\net6.0\ref\HotSpotAPI.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\appsettings.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\global.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Views\wifi-hotspot\angular.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Views\wifi-hotspot\package-lock.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Views\wifi-hotspot\package.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Views\wifi-hotspot\proxy.conf.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Views\wifi-hotspot\src\assets\config.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.app.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Views\wifi-hotspot\tsconfig.spec.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\HotSpotAPI.exe
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\HotSpotAPI.deps.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\HotSpotAPI.runtimeconfig.json
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\HotSpotAPI.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\HotSpotAPI.pdb
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Humanizer.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.csproj.AssemblyReference.cache
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.AssemblyInfoInputs.cache
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.AssemblyInfo.cs
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.csproj.CoreCompileInputs.cache
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\scopedcss\bundle\HotSpotAPI.styles.css
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.csproj.CopyComplete
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\refint\HotSpotAPI.dll
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.pdb
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\HotSpotAPI.genruntimeconfig.cache
+c:\Users\Pedro\Desktop\coletor\Coletor\obj\Debug\net6.0\ref\HotSpotAPI.dll

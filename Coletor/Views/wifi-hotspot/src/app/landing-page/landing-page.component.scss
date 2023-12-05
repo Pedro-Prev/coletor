@@ -1,0 +1,60 @@
+@import '../../assets/fonts.scss';
+
+h2 {
+  line-height: 0.3;
+  letter-spacing: 1.5px;
+}
+
+.align-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 98%;
+  font-family: 'Prevenir';
+  color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 30px;
+}
+
+label {
+  margin-left: 12px;
+  margin-top: 6px;
+  font-weight: bold;
+}
+
+input {
+  margin: 12px;
+  padding: 8px;
+  width: 14rem;
+}
+
+input[type="text" i] {
+  margin-top: 6px;
+}
+
+.btn-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.btn-div .login-btn {
+  width: 11rem;
+  padding: 6px;
+  font-size: 14px;
+  background: #00a9e0;;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 1px;
+}
