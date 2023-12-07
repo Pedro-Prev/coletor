@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ktrVwV9emjRWbYj0WZf5qPIJnZElHmLRP+Luc/HRdyUCytV+oADUykWELVyhtf8HtT7hcehrm8JS4QrGPp6p7g==",
+  "dgSpecHash": "/0Wzv6f2tfqzU2c7TG7R/oYENlHYA6yOMrvuoOaKP8rGqIOgX2fEWzFmpc/sgkPoavPl0TB8qhrdBMmkpDjgvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pedro\\Desktop\\coletor\\Coletor\\HotSpotAPI.csproj",
   "expectedPackageFiles": [
@@ -40,7 +40,11 @@
     "C:\\Users\\Pedro\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\Pedro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Pedro\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\Pedro\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\Pedro\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }
